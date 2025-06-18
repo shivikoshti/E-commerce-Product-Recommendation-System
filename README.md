@@ -20,5 +20,17 @@ To recommend relevant products to users by analyzing the reviews dataset using t
 
 ---
 
-## 📁 Folder Structure
+
+---
+
+## 📊 Features
+
+- Loaded and cleaned the Reviews dataset
+- Explored most popular and highly-rated products
+- Built a recommendation model using **SVD**
+- Predicted ratings and top-N product suggestions
+- Visualized review patterns using graphs
+
+---
+
 
